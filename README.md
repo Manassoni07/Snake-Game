@@ -26,3 +26,4 @@ A classic Snake Game built using HTML, CSS, and JavaScript.
 1. Clone the repo:
 ```bash
 git clone https://github.com/Manassoni07/Snake-Game.git
+2. open index.html and preview it
